@@ -20,9 +20,9 @@ const Home = () => (
       })}
     </div>
     <Image
-      src='/1.png'
-      alt='test image'
-      className='dark:invert'
+      src="/1.png"
+      alt="test image"
+      className="dark:invert"
       width={1280}
       height={300}
       priority
